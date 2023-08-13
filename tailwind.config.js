@@ -17,6 +17,10 @@ module.exports = {
       fontSize: {
         font64: "64px",
         font19: "19px",
+        font18: "18px",
+      },
+      backgroundImage: {
+        "footer-texture": "url('/img/footer-texture.png')",
       },
     },
   },
